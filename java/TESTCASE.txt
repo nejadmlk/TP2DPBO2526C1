@@ -1,0 +1,11 @@
+TESTCASE 
+
+iPhone 17
+19.999.999
+Apple
+1 Tahun
+3.692 mAh
+Hijau
+8 GB
+256 GB
+
