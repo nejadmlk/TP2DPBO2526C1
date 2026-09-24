@@ -103,12 +103,8 @@ Pada fitur Tampilkan Data, program akan mengambil seluruh data Handphone yang te
 
 ## PHP
 
-| Data Mobil (dark mode) | Data Mobil (light mode) | Data Motor (dark mode) |
+| Tampilan Utama | Display Sebelum Input | Display Sesudah Input |
 | :---: | :---: | :---: |
-| <img src="Dokumentasi/Dokum php/Data Mobil.png" width="100%"> | <img src="Dokumentasi/Dokum php/Data Mobil Light Mode.png" width="100%"> | <img src="Dokumentasi/Dokum php/Data Motor.png" width="100%"> |
-| **Data Motor (light mode)** | **Menu Utama(light mode)** | **Menu Utama(dark mode)** |
-| <img src="Dokumentasi/Dokum php/Data Motor Light Mode.png" width="100%"> | <img src="Dokumentasi/Dokum php/Menu Utama Light Mode.png" width="100%"> | <img src="Dokumentasi/Dokum php/Menu Utama.png" width="100%"> |
-| **Data Mobil Abis Tambah** | **Data Motor Abis Tambah** | **Form Input(dark mode)** |
-| <img src="Dokumentasi/Dokum php/Data Mobil Abis Tambah.png" width="100%"> | <img src="Dokumentasi/Dokum php/Data Motor Abis Tambah.png" width="100%"> | <img src="Dokumentasi/Dokum php/Form Input.png" width="100%"> |
-| **Form Input(light mode)** |
-| <img src="Dokumentasi/Dokum php/Form Input Light Mode.png" width="100%"> | 
+| <img src="Dokum/Dokum php/Tampilan Utama.png" width="100%"> | <img src="Dokum/Dokum php/display gambar sebelum.png" width="100%"> | <img src="Dokum/Dokum php/display gambar sesudah.png" width="100%"> |
+| **Form Tambah Data** | **List data Sebelum Input** | **List data Sebelum Input** |
+| <img src="Dokum/Dokum php/form tambah data.png" width="100%"> | <img src="Dokum/Dokum php/list sebelum.png" width="100%"> | <img src="Dokum/Dokum php/list sesudah.png" width="100%"> |
