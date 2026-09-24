@@ -65,7 +65,7 @@ C:.
 
 # Desain & Alur Program
 
-<img src="Diagram.png" width="100%">
+<img src="Diagram.jpg" width="100%">
 
 ### 1. Desain Class `Produk`
 Semua atribut yang ada di class dibikin private. Jadi kalau mau ngambil atau ngubah nilainya, harus lewat method getter dan setter:
@@ -99,7 +99,7 @@ Pada fitur Tampilkan Data, program akan mengambil seluruh data Handphone yang te
 
 | Tampilkan Data Awal | Contoh Input | Tampilkan Data Setelah Input |
 | :---: | :---: | :---: |
-| <img src="Dokumentasi/Dokum cpp,java,python/Tampilan sebelum.png" width="100%"> | <img src="Dokumentasi/Dokum cpp,java,python/Proses Input.png" width="100%"> | <img src="Dokumentasi/Dokum cpp,java,python/Tampilan sesudah.png" width="100%"> |
+| <img src="Dokum/Dokum cpp,java,python/Tampilan sebelum.png" width="100%"> | <img src="Dokum/Dokum cpp,java,python/Proses Input.png" width="100%"> | <img src="Dokum/Dokum cpp,java,python/Tampilan sesudah.png" width="100%"> |
 
 ## PHP
 
